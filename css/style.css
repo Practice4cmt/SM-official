@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=The+Nautigal&display=swap');
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.navbar{
+    background-color: aqua;
+    display: flex;
+    width: 100%;
+}
+.companylogo{
+    font-family: 'The Nautigal', cursive;
+    display: flex;
+}
+.logo{
+    width: 40px;
+    height: 50px;
+}
+.companyname{
+    justify-content: center;
+}
